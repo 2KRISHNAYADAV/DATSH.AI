@@ -9,7 +9,7 @@ This repository contains a work-in-progress project and is currently private. Wh
 
 ## Project Information
 
-**URL**: [Cleanify Dashboard](https://cleanify-dashboard.vercel.app/)
+**URL**: [DATSH.AI ](https://cleanify-dashboard.vercel.app/)
 
 ## Editing Files in GitHub
 
